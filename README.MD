@@ -19,3 +19,9 @@ This project contains a script to automate the installation of applications usin
    ```txt
    google-chrome
    visual-studio-code
+   ```
+
+## List apps that does not exist in cask
+
+1. [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369?mt=12)
+2. [Homerow](https://github.com/dexterleng/homerow) - Vimium for MacOS
