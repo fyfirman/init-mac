@@ -1,0 +1,5 @@
+git@github.com:fyfirman/documentation.git
+git@github.com:fyfirman/fyfirman.com.git
+git@github.com:fyfirman/fy-infrastructure.git
+git@github.com:fyfirman/init-mac.git
+git@github.com:fyfirman/catalyst-frontend.git
