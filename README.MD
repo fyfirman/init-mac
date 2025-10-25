@@ -1,3 +1,21 @@
+# macOS Development Environment Setup
+
+This project contains scripts and configurations to set up a complete development environment on macOS.
+
+## Setup Order
+
+Follow these steps in order for optimal setup:
+
+1. **Essential Programming Languages** (`0-install-essential-apps/`) - Install Go and Rust
+2. **Homebrew Applications** (`1-brew-apps/`) - Install development tools and apps
+3. **Node.js Setup** (`2-install-nvm/`) - Install Node Version Manager
+4. **Global NPM Packages** (`3-install-npm-global-packages/`) - Install useful npm tools
+5. **Cursor Configuration** (`4-cursor-config/`) - Configure Cursor IDE
+6. **macOS Configuration** (`5-configuring-macos/`) - System preferences and settings
+7. **Git Configuration** (`6-configure-git/`) - Set up Git with your identity
+
+---
+
 # Brew Installer Script
 
 This project contains a script to automate the installation of applications using Homebrew on macOS.

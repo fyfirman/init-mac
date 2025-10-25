@@ -1,0 +1,11 @@
+@anthropic-ai/claude-code
+@grafana/openapi-to-k6
+@playwright/test
+firebase-tools
+netlify-cli
+pkg
+serverless
+tailwindcss
+vercel
+npkill
+pnpm
