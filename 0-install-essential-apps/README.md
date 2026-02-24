@@ -329,7 +329,7 @@ After installing these essential languages, you can proceed with:
 1. **Node.js and npm** (see `2-install-nvm/`)
 2. **Homebrew applications** (see `1-brew-apps/`)
 3. **Global npm packages** (see `3-install-npm-global-packages/`)
-4. **Cursor configuration** (see `4-cursor-config/`)
+4. **Configure chezmoi** (see `4-configure-chezmoi/`)
 
 ---
 
