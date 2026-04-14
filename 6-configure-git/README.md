@@ -49,5 +49,5 @@ git config --list
 ## Next Steps
 
 After configuring Git, you can proceed with:
-1. **Cursor configuration** (see `4-cursor-config/`)
+1. **Configure chezmoi** (see `4-configure-chezmoi/`)
 2. **macOS configuration** (see `5-configuring-macos/`)

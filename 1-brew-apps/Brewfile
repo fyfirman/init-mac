@@ -1,4 +1,6 @@
 tap "minio/stable"
+brew "awscli"
+brew "chezmoi"
 brew "bind"
 brew "ffmpeg"
 brew "fzf"

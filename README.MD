@@ -10,7 +10,7 @@ Follow these steps in order for optimal setup:
 2. **Homebrew Applications** (`1-brew-apps/`) - Install development tools and apps
 3. **Node.js Setup** (`2-install-nvm/`) - Install Node Version Manager
 4. **Global NPM Packages** (`3-install-npm-global-packages/`) - Install useful npm tools
-5. **Cursor Configuration** (`4-cursor-config/`) - Configure Cursor IDE
+5. **Configure Chezmoi** (`4-configure-chezmoi/`) - Set up dotfiles from GitHub
 6. **macOS Configuration** (`5-configuring-macos/`) - System preferences and settings
 7. **Git Configuration** (`6-configure-git/`) - Set up Git with your identity
 
